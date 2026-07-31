@@ -177,7 +177,7 @@ The notebook extends the basic clustering workflow by including:
 ```
 Customer-Segmentation/
 │
-├── Customer_Segmentation_TIH(2).ipynb
+├── Customer_Segmentation_TIH.ipynb
 ├── Customer Segmentation Report.pdf
 ├── README.md
 └── dataset.csv
